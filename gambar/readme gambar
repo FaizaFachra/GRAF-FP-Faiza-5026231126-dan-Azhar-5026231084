@@ -1,0 +1,14 @@
+## 📸 Lampiran Bukti Eksekusi (Screenshots)
+
+### A. Koneksi Database & Ingesti Data
+![Koneksi DB](ss_a_koneksi.png)
+
+### B. Visualisasi Knowledge Graph
+![Graph Neo4j](ss_b_graph.png)
+
+### C. Graph Analytics & Machine Learning
+![GDS Output](ss_c_gds.png)
+
+### D. LLM Text-to-Cypher & Graph Builder
+![LLM Demo](ss_d_llm.png)
+![LLM Demo](ss_d_llm lanjutan.png)
