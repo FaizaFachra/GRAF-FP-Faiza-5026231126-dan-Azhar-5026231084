@@ -1,8 +1,8 @@
-# 🎮 Knowledge Graph Final Project: Game Dataset Analysis & LLM Integration
+# Knowledge Graph Final Project: Game Dataset Analysis & LLM Integration
 
 Repositori ini berisi dokumentasi, dataset, dan kode sumber untuk Final Project Mata Kuliah Graf Pengetahuan. Proyek ini mendemonstrasikan implementasi *Knowledge Graph* menggunakan Neo4j, Graph Data Science (GDS), dan integrasi LLM (Google Gemini) untuk interaksi *Text-to-Cypher* serta *Graph Builder*.
 
-## 🧑‍🎓 Identitas
+## Identitas
 * **Nama:** MUHAMMAD FAIZA FACHRA AZIZI
 * **NIM:** [Masukkan NIM Anda]
 * **Target Tier:** Tier 4 (Nilai 90-100)
@@ -10,7 +10,7 @@ Repositori ini berisi dokumentasi, dataset, dan kode sumber untuk Final Project 
 
 ---
 
-## 🏗️ Arsitektur & Teknologi
+## Arsitektur & Teknologi
 * **Database:** Neo4j Sandbox (Versi 5.x) + GDS Plugin
 * **Bahasa Pemrograman:** Python (Google Colab / Jupyter) + Cypher
 * **Library Utama:** `neo4j`, `pandas`, `langchain`, `langchain-google-genai`, `langchain-community`
@@ -18,7 +18,7 @@ Repositori ini berisi dokumentasi, dataset, dan kode sumber untuk Final Project 
 
 ---
 
-## 📊 Eksekusi & Hasil (Tahapan Tier 1 - 4)
+## Eksekusi & Hasil (Tahapan Tier 1 - 4)
 
 Proyek ini dibagi menjadi 4 tahap eksekusi utama, yang seluruhnya telah berjalan dengan sukses:
 
@@ -45,7 +45,7 @@ Mendemonstrasikan kemampuan LLM membaca teks berita yang tidak terstruktur, mela
 
 ---
 
-## 🚀 Cara Menjalankan Kode (How to Run)
+## Cara Menjalankan Kode (How to Run)
 
 1. **Siapkan Database:** Buka [Neo4j Sandbox](https://sandbox.neo4j.com/), buat *Blank Sandbox*, lalu salin IP (Bolt URL) dan Passwordnya.
 2. **Siapkan API Key:** Dapatkan kredensial *API Key* melalui Google AI Studio.
@@ -56,11 +56,11 @@ Mendemonstrasikan kemampuan LLM membaca teks berita yang tidak terstruktur, mela
 
 ---
 
-## 🤖 Deklarasi Penggunaan AI
+## Deklarasi Penggunaan AI
 Penyusunan kode dalam proyek ini dibantu oleh *Google Gemini* melalui antarmuka chat untuk merancang struktur *Graph Ingestion* (Cypher), *debugging* isu kompatibilitas pada *library* LangChain (seperti penanganan modul *community* dan deteksi model AI otomatis), serta penulisan draf awal dokumentasi `README.md` ini.
 
 
-## 📸 Lampiran Bukti Eksekusi (Screenshots)
+## Lampiran Bukti Eksekusi (Screenshots)
 
 ### A. Koneksi Database & Ingesti Data
 ![Koneksi DB](ss_a_koneksi.png)
